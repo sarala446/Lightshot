@@ -1,0 +1,1 @@
+# Lightshot is a screen capturing tool.You can keep track of all your screenshots by signing in at prntscr.com. Create a Lightshot account to see your screenshots in your own gallery. Here you can add captions and remove images you don't need from the web. See our about gallery page for additional information.
